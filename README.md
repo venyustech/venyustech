@@ -12,6 +12,6 @@
   <li>When I'm not coding for work, you'll find me at home in Brazil studyng  some technology that  can helps me to up my knowlogments;</li>
   <li>Planing my next move. </li>
 </ul>
-
+🏳️‍🌈 ♀️
 
 <h2 align="left">Projects</h2>
