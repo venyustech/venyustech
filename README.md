@@ -5,10 +5,14 @@
 [![Telegram badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://discord.gg/WcWaCNfG)
 [![Gmail badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://discord.gg/WcWaCNfG)
 
-<h2 align="left">Apresentação</h2>
+<h2 align="left">Introduction</h2>
 <ul>
   <li>Currently studying Full Stack Web Development and Automation and Control Engineering;</li>
   <li>Passionate about code and all things about technology;</li>
   <li>When I'm not coding for work, you'll find me at home in Brazil studyng  some technology that  can helps me to up my knowlogments;</li>
   <li>Planing my next move. </li>
 </ul>
+[![Lgbt badge](https://github.githubassets.com/images/icons/emoji/unicode/1f3f3-1f308.png)]
+
+
+<h2 align="left">Projects</h2>
