@@ -12,7 +12,6 @@
   <li>When I'm not coding for work, you'll find me at home in Brazil studyng  some technology that  can helps me to up my knowlogments;</li>
   <li>Planing my next move. </li>
 </ul>
-![](https://github.githubassets.com/images/icons/emoji/unicode/1f3f3-1f308.png)
 
 
 <h2 align="left">Projects</h2>
