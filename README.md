@@ -1,7 +1,13 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋<br> I'm Gardenia Georgia </h1>
+<h3 align="center">But you can call me Venyus :wink:</h3>
 
-<!--
-**venyustech/venyustech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivanildo-junior-dev/)
+[![Discord badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/WcWaCNfG)
+[![Telegram badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://discord.gg/WcWaCNfG)
+[![Gmail badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://discord.gg/WcWaCNfG)
+[![Gmail badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://discord.gg/WcWaCNfG)
+
+
 
 Here are some ideas to get you started:
 
