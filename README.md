@@ -5,7 +5,7 @@
 [![Telegram badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://discord.gg/WcWaCNfG)
 [![Gmail badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://discord.gg/WcWaCNfG)
 
-<h2 align="left">Introduction 🏳️‍🌈 ♀️</h2>
+<h2 align="left">Introduction ♀️</h2>
 <ul>
   <li>Currently studying Full Stack Web Development and Automation and Control Engineering;</li>
   <li>Passionate about code and all things about technology;</li>
