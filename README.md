@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Gardenia Georgia <br> But you can call me Venyus :wink: </h1>
+<h1 align="center">Hello, world! <br> Yu can call me Venyus :wink: </h1>
 
 [![LinkedIn badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gard%C3%AAnia-georgia-782564228/)
 [![Discord badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/WcWaCNfG)
