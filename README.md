@@ -30,8 +30,8 @@
       </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
     </p>
 
-  <p align="center">
+  <div align="center">
     <a href="https://github.com/rafaballerini">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
-  </p>
+  </div>
 
