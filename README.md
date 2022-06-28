@@ -10,9 +10,9 @@
 
 Olá! Me identifico como Venyus, tenho 25 anos e sou desenvolvedora web full stack. Faço Engenharia de Automação e Controle pela UPE e meu objetivo é impactar a vida das pessoas positivamente, por meio das linhas de código, sem esquecer da importância da diversidade.
 
-Eu me tornei desenvolvedora web, após concluir concluir o Curso Técnico Integrado da Driven Education com +1200 horas e +30 projetos práticos com as principais tecnologias Front-end e Back-end do mercado: HTML5, CSS3, Javascript, ReactJS, NodeJS, ExpressJS, Sequelize. PostgreSQL, Redis, além de Deploy para aplicações Full-Stack em produção com Heroku, testes automatizados com Jest e projetos em grupo utilizando Metodologias Ágeis (Scrum), Git, Trello, Slack, Zoom, Pair programming e Code Review.
+Eu me tornei desenvolvedora web, após concluir o Curso Técnico Integrado da Driven Education com +1200 horas e +30 projetos práticos com as principais tecnologias Front-end e Back-end do mercado: HTML5, CSS3, Javascript, ReactJS, NodeJS, ExpressJS, Sequelize. PostgreSQL, Redis, além de Deploy para aplicações Full-Stack em produção com Heroku, testes automatizados com Jest e projetos em grupo utilizando Metodologias Ágeis (Scrum), Git, Trello, Slack, Zoom, Pair programming e Code Review.
 
-Atualmente meu foco é me especializar cada vez mais em desenvolvimento Web, porém tenho interesse em Mobile e Inteligência Artificial.
+Atualmente meu foco é me especializar cada vez mais em desenvolvimento Web, porém também tenho interesse em Mobile e Inteligência Artificial.
 
 ## Tecnologias que estou estudando :books:
 
