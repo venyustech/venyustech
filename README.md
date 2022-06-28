@@ -1,37 +1,54 @@
-<h1 align="center">Hello, world! <br> You can call me Venyus :wink: </h1>
+<h1 align="center">Oi, <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30px"> Eu sou Venyus! :wink: </h1>
 
-[![LinkedIn badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gard%C3%AAnia-georgia-782564228/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venyustech/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:venyustech@gmail.com)
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/venyustech)
 [![Discord badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/WcWaCNfG)
-[![Telegram badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/GardeniaGeorgia)
-[![Gmail badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:venystech@gmail.com)
+[![Telegram badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/VenyusTech)
 
-<h2 align="left">Introduction ♀️</h2>
-<ul>
-  <li>Currently studying Full Stack Web Development and Automation and Control Engineering;</li>
-  <li>Passionate about code and all things about technology;</li>
-  <li>When I'm not coding for work, you'll find me at home in Brazil studyng  some technology that  can helps me to up my knowlogments;</li>
-  <li>Planing my next move. </li>
-</ul>
+## Sobre Mim :wave:
+
+Olá! Me identifico como Venyus, tenho 25 anos e sou desenvolvedora web full stack. Faço Engenharia de Automação e Controle pela UPE e meu objetivo é impactar a vida das pessoas positivamente, por meio das linhas de código, sem esquecer da importância da diversidade.
+
+Eu me tornei desenvolvedora web, após concluir concluir o Curso Técnico Integrado da Driven Education com +1200 horas e +30 projetos práticos com as principais tecnologias Front-end e Back-end do mercado: HTML5, CSS3, Javascript, ReactJS, NodeJS, ExpressJS, Sequelize. PostgreSQL, Redis, além de Deploy para aplicações Full-Stack em produção com Heroku, testes automatizados com Jest e projetos em grupo utilizando Metodologias Ágeis (Scrum), Git, Trello, Slack, Zoom, Pair programming e Code Review.
+
+Atualmente meu foco é me especializar cada vez mais em desenvolvimento Web, porém tenho interesse em Mobile e Inteligência Artificial.
+
+## Tecnologias que estou estudando :books:
+
+#### Front-end:
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![StyledComponents](https://img.shields.io/badge/Styled--Components-DB7093?style=flat-square&logo=styled-components&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=flat-square&logo=mui&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 
 
-<h2 align="left">Languages and Tools</h2>
+#### Back-End:
 
-<p align="center">
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://learnxinyminutes.com/docs/c/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" />
- </a>
-</p>
-<p align="center">
-  <a href="https://nodejs.org" target="_blank">   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-</p>
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=ffffff)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker)
 
-  <div align="center">
-    <a href="https://github.com/venyustech">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=venyustech&layout=compact&langs_count=7&theme=dracula"/>
-  </div>
+#### Ferramentas:
 
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0079BF?style=flat-square&logo=trello&logoColor=white)
+![GNU Bash](https://img.shields.io/badge/GNU_Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+## Estatísticas :rocket:
+
+<img align="left" width="450" src="https://github-readme-stats.vercel.app/api?username=venyustech&show_icons=true&count_private=true&hide=stars,issues" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=venyustech&layout=compact" />
